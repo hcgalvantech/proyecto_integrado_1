@@ -107,6 +107,7 @@ Los archivos se guardarán en tu carpeta de descargas local
    - ventas_tecnologia.csv
    - informe_ventas.doc
 4. Crea el archivo *ventas_analisis.ipynb*
+   - Utiliza el archivo que se encuentra en este repositorio y copia el código en tu archivo.
 
 ### Pasos para Google Colab:
 1. Abrir Google Colab
