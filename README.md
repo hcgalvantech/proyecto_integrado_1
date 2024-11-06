@@ -3,13 +3,6 @@
 Este proyecto analiza las ventas de productos tecnológicos durante el año 2023.
 
 # Estructura del Proyecto
-tu-repositorio/
-├── index.html
-├── styles.css
-├── netlify.toml
-├── informe_ventas.doc
-├── ventas_tecnologia.csv
-└── ventas_analisis.ipynb
 
 - `index.html`: Página principal del proyecto
 - `styles.css`: Estilos de la página
@@ -20,6 +13,8 @@ tu-repositorio/
 ## Visualización
 
 Puedes ver el proyecto desplegado en: [URL_DE_TU_SITIO_EN_NETLIFY]
+
+# Propuesta de examen
 **Objetivo:**
 * Crear archivos y aplicar formatos necesarios con aplicaciones google.
 * Generar nuevos datos con analisis estadístico en colab
