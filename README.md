@@ -148,3 +148,8 @@ Los archivos se guardarán en tu carpeta de descargas local
 - Para que el CSV sea accesible desde Colab, asegúrate de usar la URL "raw" de GitHub
 - El notebook de Colab debe estar configurado para ser público
 - Recuerda guardar frecuentemente los cambios en GitHub
+
+## Pasos para ENVIAR SU PROYECTO
+Pulsar en el vinculo para enviar su proyecto
+
+[(https://forms.gle/dJJeVwetDWroajTcA))]
