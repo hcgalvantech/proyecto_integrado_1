@@ -1,10 +1,9 @@
 # Estructura del Proyecto
 **Objetivo:**
-* Crear archivo con datos de tecnología en extensión csv, en planilla de cálculo google.
-* Crear archivo informe de ventas en procesador de texto de google, manteniendo el formato.
-* Crear archivo de notebook de google con el código inicial, escrito en python.
-* Generar nuevos datos con analisis estadístico en colab.
-* Publicar en netlify.
+* Crear archivos y aplicar formatos necesarios con aplicaciones google.
+* Generar nuevos datos con analisis estadístico en colab
+* Guardar en Github
+* Publicar en netlify
 
 ## 1. Archivo ventas_tecnologia.csv
 ```csv
@@ -93,7 +92,7 @@ Ideas para análisis adicional:
 ### Pasos iniciales con Google:
 1. Tener abierto su usuario de google
 2. Utiliza aplicaciones de google para abrir documentos, Hoja de Cálculos
-3. Genera/crea los archivos solicitados.
+3. Genera/crea los archivos *informe_ventas.doc* y *ventas_tecnologia.csv*
 
 ### Pasos para descargar desde Google Drive a tu computadora local:
 Abre Google Drive en tu navegador
@@ -107,7 +106,7 @@ Los archivos se guardarán en tu carpeta de descargas local
 3. Subir los archivos:
    - ventas_tecnologia.csv
    - informe_ventas.doc
-   - ventas_analisis.ipynb
+4. Crea el archivo *ventas_analisis.ipynb*
 
 ### Pasos para Google Colab:
 1. Abrir Google Colab
