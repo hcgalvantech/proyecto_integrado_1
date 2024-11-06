@@ -22,7 +22,7 @@ Este proyecto analiza las ventas de productos tecnológicos durante el año 2023
 
 ## Visualización
 
-Puedes ver el proyecto desplegado en: [URL_DE_TU_SITIO_EN_NETLIFY]
+Puedes ver el proyecto desplegado en: [(https://proyectointeg1.netlify.app/)]
 
 ## 1. Archivo ventas_tecnologia.csv
 ```csv
