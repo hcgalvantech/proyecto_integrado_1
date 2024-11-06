@@ -1,3 +1,12 @@
+# Propuesta de examen
+**Objetivo:**
+* Crear archivos y aplicar formatos necesarios con aplicaciones google.
+* Generar nuevos datos con analisis estadístico en colab
+* Guardar en Github
+* Publicar en netlify
+
+---
+  
 # Análisis de Ventas Tecnológicas
 
 Este proyecto analiza las ventas de productos tecnológicos durante el año 2023.
@@ -6,6 +15,7 @@ Este proyecto analiza las ventas de productos tecnológicos durante el año 2023
 
 - `index.html`: Página principal del proyecto
 - `styles.css`: Estilos de la página
+- `netlify.toml`: Configuración para publicación en netlify
 - `informe_ventas.doc`: Documento con el informe detallado
 - `ventas_tecnologia.csv`: Datos de ventas en formato CSV
 - `ventas_analisis.ipynb`: Notebook de Jupyter con el análisis
@@ -13,13 +23,6 @@ Este proyecto analiza las ventas de productos tecnológicos durante el año 2023
 ## Visualización
 
 Puedes ver el proyecto desplegado en: [URL_DE_TU_SITIO_EN_NETLIFY]
-
-# Propuesta de examen
-**Objetivo:**
-* Crear archivos y aplicar formatos necesarios con aplicaciones google.
-* Generar nuevos datos con analisis estadístico en colab
-* Guardar en Github
-* Publicar en netlify
 
 ## 1. Archivo ventas_tecnologia.csv
 ```csv
@@ -122,8 +125,8 @@ Los archivos se guardarán en tu carpeta de descargas local
 3. Subir los archivos:
    - ventas_tecnologia.csv
    - informe_ventas.doc
-4. Crea el archivo *ventas_analisis.ipynb*
-   - Utiliza el archivo que se encuentra en este repositorio y copia el código en tu archivo.
+4. Crea los siguientes archivos: *ventas_analisis.ipynb*, *index.html*, *style.css*, *netlify.toml*  
+   - Utiliza los archivos disponibles en este repositorio y copia el código en tus archivos.
 
 ### Pasos para Google Colab:
 1. Abrir Google Colab
