@@ -20,9 +20,9 @@ Este proyecto analiza las ventas de productos tecnológicos durante el año 2023
 - `ventas_tecnologia.csv`: Datos de ventas en formato CSV
 - `ventas_analisis.ipynb`: Notebook de Jupyter con el análisis
 
-## Visualización
+## Utilizando Write for me en ChatGPT
 
-Puedes ver el proyecto desplegado en: [(https://proyectointeg1.netlify.app/)]
+Puedes ver el proyecto desplegado en: [[Informe Estadístico sobre la Educación en Argentina](https://chatgpt.com/share/6733b30c-47ec-8002-8835-f98cbf4965ad)]
 
 ## 1. Archivo ventas_tecnologia.csv
 ```csv
