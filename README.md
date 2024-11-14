@@ -22,7 +22,7 @@ Este proyecto analiza las ventas de productos tecnológicos durante el año 2023
 
 ## Visualización en Netlify
 
-Puedes ver el proyecto desplegado en: [[Informe Estadístico sobre la Educación en Argentina](https://chatgpt.com/share/6733b30c-47ec-8002-8835-f98cbf4965ad)]
+Puedes ver el proyecto desplegado en: [[Informe Estadístico](https://proyectointeg1.netlify.app/))]
 
 ## 1. Archivo ventas_tecnologia.csv
 ```csv
